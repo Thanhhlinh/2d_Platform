@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Trap
+  - Rock
+  - Enemy
+  - Box
+  - Bullet
+  - HP
+  - Shield
+  - Buff
+  - Portal
+  - DeadZone
+  - Credits
+  - Settings
+  - BossShield
+  - Boss
+  - BossParticle
+  - Gate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Trap
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemies
+  - Boss
+  - NPC
+  - Bullet
+  - Ignore Enemies
+  - Shield
+  - Bullet Pieces
+  - BossShield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround_Layer
+    uniqueID: 1325565319
+    locked: 0
+  - name: MiddleGround_:ayer
+    uniqueID: 638160715
+    locked: 0
+  - name: MapLayer
+    uniqueID: 2365757027
+    locked: 0
+  - name: FrontMiddleGround_Layer
+    uniqueID: 4005989897
+    locked: 0
+  - name: FrontMiddleGround_Layer2
+    uniqueID: 3427692301
+    locked: 0
+  - name: MiddleObj_Layer
+    uniqueID: 313337135
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
